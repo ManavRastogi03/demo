@@ -1,5 +1,12 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello_World";
+    cout<<"Hello_World ";
+    
+    int x=5,y=6;
+    int sum=x+y;
+    cout<<sum;
+
+    return 0;
+
 }
